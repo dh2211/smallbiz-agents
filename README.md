@@ -11,7 +11,7 @@ Each skill is a folder with a `SKILL.md` file in the open [Agent Skills](https:/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SmallBizOps/smallbiz-agents.git
+   git clone https://github.com/dh2211/smallbiz-agents.git
    ```
 
 2. Copy the `skills/` folders into the skills folder your agent reads. For Claude Code on macOS or Linux:
